@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard de Analítica de Ventas",
+  "description": "Una aplicación web para la visualización de reportes comerciales y análisis de ventas, conectada a Google Drive para la toma de decisiones gerenciales y comerciales en la venta de lujos y accesorios para vehículos.",
+  "requestFramePermissions": []
+}
